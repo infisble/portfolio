@@ -2,9 +2,6 @@
 
 Based on the files retrieved from your repository, here's how you can run the code in your project:
 
-### Instructions 
-The `README.md` file does not contain specific instructions on how to run the code. It only includes a link to edit the project in StackBlitz: 
-- [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/infisble/portfolio)
 
 ### Instructions from `package.json`
 The `package.json` file provides some scripts that can be used to run and manage your project. Here are the relevant scripts:
