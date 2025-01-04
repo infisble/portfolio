@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #ffffff;
+}
+
+.dark body {
+  background-color: #121212;
+}
+
+.dark .nav-section {
+  background-color: #ffffff;
+}
